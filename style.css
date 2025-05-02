@@ -1,8 +1,5 @@
 body {
-    background-image:
-    url("/images/h02-bg-frill.gif"), url("/images/ba03-bg-lace.gif");
-    background-position: left top, top;
-    background-repeat: repeat-x, repeat;
+    background:pink
     }
     h1 {
       font-size: 60px;
