@@ -1,0 +1,59 @@
+body {
+    background-image:
+    url("/images/h02-bg-frill.gif"), url("/images/ba03-bg-lace.gif");
+    background-position: left top, top;
+    background-repeat: repeat-x, repeat;
+    }
+    h1 {
+      font-size: 60px;
+      text-align: center;
+    }
+    p  {
+      font-size: 20px;
+      text-align: center;
+      line-height: normal;
+      color: #845e43;
+      margin-top: 50px;
+      padding: 0;
+    }
+    .wrapper {
+      overflow: hidden;
+    }
+    .solid {
+      border-style: solid
+    }
+    .block {
+      background-image: url("/images/lace2-2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      text-align: center;
+      display: block;
+      width: 500px;
+      height: 300px;
+    }
+    .block2 {
+      padding-top: 70px;
+      text-align: center;
+      display: block;
+      height: 100px;
+      width: 500px;
+    }
+    a {
+      font-size: 20px;
+      text-align: center;
+      line-height: normal;
+      margin-bottom: 50px;
+    }
+    a:link {
+      color: #845e43;
+    }
+    a:visited {
+      color: #3c2600;
+    }
+    a:hover {
+      color: #845e43;
+    }
+    a:active {
+      color: #845e43;
+    }
